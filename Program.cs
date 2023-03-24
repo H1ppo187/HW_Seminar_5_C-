@@ -91,7 +91,6 @@ double[] GetRandomArray(int size, int minValue, int maxValue)
 double DiffElement(double[] array)
 {
     double diff = 0;
-    int i = 0;
     double min = B;
     double max = A;
 
